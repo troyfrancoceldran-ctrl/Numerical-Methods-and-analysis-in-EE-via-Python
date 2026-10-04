@@ -83,8 +83,7 @@ The initial code scaffold (package structure, solvers, tests and starter noteboo
 
 ## Acknowledgments
 
-The EEE102 course at MSU-IIT introduced these methods. [Optional: add a named thanks to your instructor only if they agree to it.]
-
+The EEE102 course at MSU-IIT introduced these methods. 
 ## License
 
 MIT License (see `LICENSE`).
